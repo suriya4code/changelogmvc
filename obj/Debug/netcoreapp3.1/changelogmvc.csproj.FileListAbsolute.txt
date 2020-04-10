@@ -41,3 +41,4 @@ C:\Users\SURIYAPRAKASH\Source\repos\changelogmvc\bin\Debug\netcoreapp3.1\MongoDB
 C:\Users\SURIYAPRAKASH\Source\repos\changelogmvc\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
 C:\Users\SURIYAPRAKASH\Source\repos\changelogmvc\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
 C:\Users\SURIYAPRAKASH\Source\repos\changelogmvc\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\SURIYAPRAKASH\Source\repos\changelogmvc\obj\Debug\netcoreapp3.1\changelogmvc.csproj.CoreCompileInputs.cache

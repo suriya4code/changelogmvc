@@ -14,7 +14,7 @@ RUN dotnet build "changelogmvc.csproj" -c Release -o /app/build
 FROM build AS publish
 RUN dotnet publish "changelogmvc.csproj" -c Release -o /app/publish
 
-FROM base AS final
+FROM base AS final  
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "changelogmvc.dll"]
